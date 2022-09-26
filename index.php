@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>1.2 Obtain a user</title>
+    <title>1.4 Obtain a user</title>
     <meta charset="UTF-8">
   </head>
   <body>
